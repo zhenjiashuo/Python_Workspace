@@ -97,3 +97,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+learn_python.py~
+.learn_python.py.swp
+.learn_python.py.un~
