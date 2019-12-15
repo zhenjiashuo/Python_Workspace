@@ -100,3 +100,4 @@ ENV/
 .py~
 .py.swp
 .py.un~
+searchimg/data/*
